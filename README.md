@@ -3,7 +3,7 @@
 Computer Science student at USM<br/>
 Intelligent Student at USM<br/>
 I create programs , apps to improve my skill of understanding code<br/>
-Here is is my instgram https://www.instagram.com/p/DHEi4o-uCvZ/
+Here is is my instgram 
 
 
 # 💻 Tech Stack:
